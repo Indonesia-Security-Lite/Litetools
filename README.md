@@ -1,13 +1,14 @@
 # Litetools
 Tools Installer From Indonesia security Lite
  
+<img alt="version" src ="https://img.shields.io/badge/Version-1.0-red.svg">
 
- 
 ![LiteTools](http://i.imgur.com/pE1KkEj.jpg)
  
-<img alt="version" src ="https://img.shields.io/badge/Version-1.0-red.svg">
-<img alt="follow" src="https://img.shields.io/badge/Youtube-IndonesiaSecurityLite-Red.svg">
-<img alt="subscribe" src="https://img.shields.io/badge/Youtube-AMRiezz z-Yellow.svg">
+This Tool is **presented** by ***indonesian security lite*** and maker by AMRiezz
+The usefulness of this tool is just to install various other tools
+in design with easy, makes you very easy to wear it
+with 170 tools that can be **installed**
 
 Install
 ====
@@ -21,3 +22,24 @@ git clone https://github.com/Indonesia-Security-Lite/Litetools.git
 cd Litetools
 ./Litetools.isl
 ```
+
+
+ 
+*Support*
+====
+ ***Youtube*** : 
+           
+           IndonesiaSecurityLite
+ 
+           AMRiezz z
+ 
+***Site***   : 
+           
+           Kumandroid.ml
+ 
+           anrwiki.blogspot.com
+           
+***Github***   :
+           41L181
+           
+           Amriez
