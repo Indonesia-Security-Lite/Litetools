@@ -2,6 +2,12 @@
 Tools Installer From Indonesia security Lite
  
 <img alt="version" src ="https://img.shields.io/badge/Version-1.0-red.svg">
+
+
+<img alt="follow" src="https://img.shields.io/badge/Youtube-IndonesiaSecurityLite-Red.svg">
+ 
+<a href src="http://youtube.com">
+<img alt="subscribe" src="https://img.shields.io/badge/Youtube-AMRiezz z-Yellow.svg"></a>
  
 ![LiteTools](http://i.imgur.com/pE1KkEj.jpg)
  
