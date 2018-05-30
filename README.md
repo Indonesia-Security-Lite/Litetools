@@ -1,7 +1,9 @@
 # Litetools
 Tools Installer From Indonesia security Lite
  
-<img alt="version" src ="https://img.shields.io/badge/Version-1.0-red.svg">
+<img alt="version" src ="https://img.shields.io/badge/Version-1.1-red.svg">
+
+<img alt="version" src ="https://img.shields.io/badge/BashVersion-4.4.19-red.svg">
  
 ![LiteTools](http://i.imgur.com/UIW3AWt.jpg)
  
